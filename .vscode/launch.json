@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/skysp/Desktop/Taller S3_Cando_Enriquez/funciones1-Zafiro128",
-      "program": "c:/Users/skysp/Desktop/Taller S3_Cando_Enriquez/funciones1-Zafiro128/build/Debug/outDebug",
+      "cwd": "c:/Users/skysp/Desktop/Taller S3",
+      "program": "c:/Users/skysp/Desktop/Taller S3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
